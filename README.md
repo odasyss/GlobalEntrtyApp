@@ -38,11 +38,3 @@ A modern, responsive Next.js web application that automatically tracks and notif
 
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/global-entry-notifier.git
-cd global-entry-notifier
