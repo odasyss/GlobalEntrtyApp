@@ -38,3 +38,6 @@ A modern, responsive Next.js web application that automatically tracks and notif
 
 
 ---
+```bash
+npm install
+
